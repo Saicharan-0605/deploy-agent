@@ -11,7 +11,7 @@ def get_weather(city: str) -> dict:
     Returns:
         dict: status and result or error msg.
     """
-    if city.lower() == "nejw york":
+    if city.lower() == "new york":
         return {
             "status": "success",
             "report": (

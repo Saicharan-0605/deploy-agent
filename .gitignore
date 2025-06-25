@@ -1,0 +1,5 @@
+.venv/
+trace-key.json
+spans.json
+output.csv
+show_eval.ipynb
